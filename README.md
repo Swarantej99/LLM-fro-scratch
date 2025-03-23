@@ -1,4 +1,4 @@
-# LLM-fro-scratch
+# LLM-from-scratch
 Modern language models (like GPT-4) use transformers, a deep learning architecture that learns word relationships through self-attention. We’ll build a basic transformer-based model to understand how to build a large language model from scratch. 
 "The goal of our language model will be to predict the next word".
 
